@@ -1,2 +1,2 @@
-# python-
+# python-study
 python练习
